@@ -1,0 +1,14 @@
+#buy_button {
+    margin-top: 40px;
+}
+
+#buy_button:hover {
+    color: #179acf;
+}
+
+#buy_button:active {
+    color: #179acf;
+    background-color: #d4aea5;
+}
+
+
